@@ -38,7 +38,7 @@ please feel free to send me [pull requests](https://github.com/harpribot/awesome
 
 ## Software
 * [Apache Lucene](http://lucene.apache.org/core/)
-* []
+
 ## Datasets
 
 ## Tutorials
@@ -57,6 +57,8 @@ please feel free to send me [pull requests](https://github.com/harpribot/awesome
 * [CIKM](http://www.cikmconference.org)
 
 ## Blogs
+* [Information Retrieval and the Web](http://research.google.com/pubs/InformationRetrievalandtheWeb.html) - Google Research
+* [IR Thoughts](https://irthoughts.wordpress.com) - Dr. Edel Garcia
 
 ## License
 
