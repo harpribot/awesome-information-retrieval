@@ -10,7 +10,6 @@ please feel free to send me [pull requests](https://github.com/harpribot/awesome
  - [Papers](#papers)
  - [Software](#software)
  - [Datasets](#datasets)
- - [Tutorials](#tutorials)
  - [Talks](#talks)
  - [Conferences](#conference)
  - [Blogs](#blogs)
@@ -29,19 +28,29 @@ please feel free to send me [pull requests](https://github.com/harpribot/awesome
 * [CS 276 / LING 286: Information Retrieval and Web Search](http://web.stanford.edu/class/cs276/) - Chris Manning and Pandu Nayak (Stanford University)
 * [CS 371R: Information Retrieval and Web Search](https://www.cs.utexas.edu/~mooney/ir-course/) - Raymond J. Mooney (University of Texas at Austin)
 * [CS 172: Introduction to Information Retrieval](http://www.cs.ucr.edu/~vagelis/classes/CS172/) - Vagelis Hristidis (University of California - Riverside)
+* [SIMS 240: Principles of Information Retrieval](http://www2.sims.berkeley.edu/academics/courses/is240/s06/) - Ray R. Larson (UC berkeley)
+* [11-442 / 11-642: Search Engines](http://boston.lti.cs.cmu.edu/classes/11-642/) - Jamie Callan (CMU)
+* [600.466: Information Retrieval and Web Agents](http://www.cs.jhu.edu/%7Eyarowsky/cs466.html) - David Yarowsky (John Hopkins University)
+* [CS 435: Information Retrieval, Discovery, and Delivery](http://www.cs.princeton.edu/courses/archive/spring06/cos435/) - Andrea LaPaugh (Princeton University)
+* [Information Retrieval and Data Mining](https://www.mpi-inf.mpg.de/departments/databases-and-information-systems/teaching/winter-semester-201516/information-retrieval-and-data-mining/) - Dr. Jilles Vreeken , Prof. Dr. Gerhard Weikum (MPI)
+
 
 ## Papers
 
-#### Deep Information Retrieval
-
-#### Conventional Information Retrieval
 
 ## Software
 * [Apache Lucene](http://lucene.apache.org/core/)
+* [The Lemur Project](http://www.lemurproject.org)
+  * [Indri](http://www.lemurproject.org/indri.php)
 
 ## Datasets
 
-## Tutorials
+###
+
+#### External Curation Links
+* [CMU List](http://boston.lti.cs.cmu.edu/callan/Data/#DIR)
+* [Stanford List](http://nlp.stanford.edu/IR-book/html/htmledition/standard-test-collections-1.html)
+* [University of Tennesse Knoxville](http://web.eecs.utk.edu/research/lsi/corpa.html)
 
 
 ## Talks
@@ -49,12 +58,12 @@ please feel free to send me [pull requests](https://github.com/harpribot/awesome
 * [Knowledge-based Information Retrieval with Wikipedia](https://www.youtube.com/watch?v=NFCZuzA4cFc) - David Wilne (The University of Waikato, 2008)
 
 ## Conferences
-* [WSDM](http://www.wsdm-conference.org)
-* [SIGIR](http://sigir.org)
-* [TREC](http://trec.nist.gov)
-* [ECIR](http://irsg.bcs.org/ecir.php)
-* [WWW](http://www.iw3c2.org)
-* [CIKM](http://www.cikmconference.org)
+* Web Search and Data Mining Conference - [WSDM](http://www.wsdm-conference.org)
+* Special Interests Group on Information Retrieval - [SIGIR](http://sigir.org)
+* Text REtrieval Conference - [TREC](http://trec.nist.gov)
+* European Conference on Information Retrieval - [ECIR](http://irsg.bcs.org/ecir.php)
+* World Wide Web Conference - [WWW](http://www.iw3c2.org)
+* Conference on Information and Knowledge Management[CIKM](http://www.cikmconference.org)
 
 ## Blogs
 * [Information Retrieval and the Web](http://research.google.com/pubs/InformationRetrievalandtheWeb.html) - Google Research
