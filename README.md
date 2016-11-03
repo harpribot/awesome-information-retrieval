@@ -100,6 +100,8 @@ please feel free to send me [pull requests](https://github.com/harpribot/awesome
   - RCV2 (Reuter's Corpus Volume 2) - Consists of stories in 13 languages (Dutch, French, German, Chinese, Japanese, Russian, Portuguese, Spanish, Latin American Spanish, Italian, Danish, Norwegian, and Swedish). Note that the stories are not parallel.
   - TRC (Thomson Reuters Text Research Collection) - This is a fairly recent corpus consisting of 1,800,370 news stories covering the period from 2008-01-01 00:00:03 to 2009-02-28 23:54:14.
 - [20 Newsgroup dataset](https://kdd.ics.uci.edu/databases/20newsgroups/20newsgroups.html) - This data set consists of 20000 newsgroup messages.posts taken from 20 newsgroup topics.
+- [English Gigaword Fifth Edition](https://catalog.ldc.upenn.edu/LDC2011T07) -  This data set is a comprehensive archive of English newswire text data including headlines, datelines and articles. 
+- [Document Understanding Conference (DUC) datasets](http://www-nlpir.nist.gov/projects/duc/data.html) - Past newswire/paper datasets (DUC 2001 - DUC 2007) are available upon request. 
 
 #### External Curation Links
 - [CMU List](http://boston.lti.cs.cmu.edu/callan/Data/#DIR)
