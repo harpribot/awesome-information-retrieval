@@ -4,7 +4,7 @@
 * A curated list of information retrieval and web search resources from all around the web.
 
 ## Contributing
-please feel free to send me [pull requests](https://github.com/harpribot/awesome-information-retrieval/pulls) or email(harshal.priyadarshi@utexas.edu) to add new links. I am very open to suggestions and corrections.
+Please feel free to send me [pull requests](https://github.com/harpribot/awesome-information-retrieval/pulls) or email (harshal.priyadarshi@utexas.edu) to add new links. I am very open to suggestions and corrections.
 
 ## Table of Contents
  - [Books](#books)
@@ -43,7 +43,7 @@ please feel free to send me [pull requests](https://github.com/harpribot/awesome
 ## Datasets
 #### Standard IR Collections
 - [Cranfield Collections](http://ir.dcs.gla.ac.uk/resources/test_collections/cran/) - This is one of the first collections in IR domain, however the dataset is too small for any statistical significane analysis, but is nevertheless suitable for pilot runs.
-- [TREC Collections](http://trec.nist.gov/data.html) - TREC is the benchmark dataset used by most IR and Web search algorithm. It has several tracks, each of which consists dataset to test for a specific task. The tracks are:
+- [TREC Collections](http://trec.nist.gov/data.html) - TREC is the benchmark dataset used by most IR and Web search algorithms. It has several tracks, each of which consists of dataset to test for a specific task. The tracks are:
   - [Blog](http://trec.nist.gov/data/blog.html)
   - [Chemical IR](http://trec.nist.gov/data/chem-ir.html)
   - [Clinical Decision Support](http://trec.nist.gov/data/clinical.html)
@@ -108,7 +108,6 @@ please feel free to send me [pull requests](https://github.com/harpribot/awesome
 - [Stanford List](http://nlp.stanford.edu/IR-book/html/htmledition/standard-test-collections-1.html)
 - [University of Tennesse Knoxville](http://web.eecs.utk.edu/research/lsi/corpa.html)
 
-
 ## Talks
 #### Technical Talks
 - [Challenges in Building Large-Scale Information Retrieval Systems](http://videolectures.net/wsdm09_dean_cblirs/) - Jeff Dean (WSDM Conference, 2009)
@@ -116,7 +115,7 @@ please feel free to send me [pull requests](https://github.com/harpribot/awesome
 - [Music Information Retrieval Using Locality Sensitive Hashing](https://www.youtube.com/watch?v=SghMq1xBJPI&list=PLdktw5AjQqP2gpQNgHRJaSgEkHiaVLfTi&index=24) - Steve Tjoa (Rackspace Developers) [This talk shows that IR is not just text and images]
 
 #### Philosophical Talks
-- [he moral bias behind your search results](https://www.ted.com/talks/andreas_ekstrom_the_moral_bias_behind_your_search_results) - Andreas Ekström (Swedish Author & Journalist, TED Talk)
+- [The moral bias behind your search results](https://www.ted.com/talks/andreas_ekstrom_the_moral_bias_behind_your_search_results) - Andreas Ekström (Swedish Author & Journalist, TED Talk)
 - [Beware online "filter bubbles"](https://www.ted.com/talks/eli_pariser_beware_online_filter_bubbles?language=en) - Eli Pariser (Author of the Filter Bubble, TED Talk)
 - [Think your email's private? Think again](https://www.ted.com/talks/andy_yen_think_your_email_s_private_think_again) - Andy Yen (CERN, TED Talk) [This talk talks about privacy, which Search Engines intrude into, and how can people protect it]
 
@@ -126,7 +125,10 @@ please feel free to send me [pull requests](https://github.com/harpribot/awesome
 - Text REtrieval Conference - [TREC](http://trec.nist.gov)
 - European Conference on Information Retrieval - [ECIR](http://irsg.bcs.org/ecir.php)
 - World Wide Web Conference - [WWW](http://www.iw3c2.org)
-- Conference on Information and Knowledge Management[CIKM](http://www.cikmconference.org)
+- Conference on Information and Knowledge Management - [CIKM](http://www.cikmconference.org)
+- Forum for Information Retrieval Evaluation - [FIRE](http://fire.irsi.res.in/fire/2016/home)
+- Conference and Labs of the Evaluation Forum - [CLEF](http://www.clef-initiative.eu/)
+- NII Testsbeds and Community for Information access Research - [NTCIR](http://research.nii.ac.jp/ntcir/index-en.html)
 
 ## Blogs
 - [Information Retrieval and the Web](http://research.google.com/pubs/InformationRetrievalandtheWeb.html) - Google Research
