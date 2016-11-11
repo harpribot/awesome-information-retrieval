@@ -100,8 +100,8 @@ Please feel free to send me [pull requests](https://github.com/harpribot/awesome
   - RCV2 (Reuter's Corpus Volume 2) - Consists of stories in 13 languages (Dutch, French, German, Chinese, Japanese, Russian, Portuguese, Spanish, Latin American Spanish, Italian, Danish, Norwegian, and Swedish). Note that the stories are not parallel.
   - TRC (Thomson Reuters Text Research Collection) - This is a fairly recent corpus consisting of 1,800,370 news stories covering the period from 2008-01-01 00:00:03 to 2009-02-28 23:54:14.
 - [20 Newsgroup dataset](https://kdd.ics.uci.edu/databases/20newsgroups/20newsgroups.html) - This data set consists of 20000 newsgroup messages.posts taken from 20 newsgroup topics.
-- [English Gigaword Fifth Edition](https://catalog.ldc.upenn.edu/LDC2011T07) -  This data set is a comprehensive archive of English newswire text data including headlines, datelines and articles. 
-- [Document Understanding Conference (DUC) datasets](http://www-nlpir.nist.gov/projects/duc/data.html) - Past newswire/paper datasets (DUC 2001 - DUC 2007) are available upon request. 
+- [English Gigaword Fifth Edition](https://catalog.ldc.upenn.edu/LDC2011T07) -  This data set is a comprehensive archive of English newswire text data including headlines, datelines and articles.
+- [Document Understanding Conference (DUC) datasets](http://www-nlpir.nist.gov/projects/duc/data.html) - Past newswire/paper datasets (DUC 2001 - DUC 2007) are available upon request.
 
 #### External Curation Links
 - [CMU List](http://boston.lti.cs.cmu.edu/callan/Data/#DIR)
@@ -111,13 +111,17 @@ Please feel free to send me [pull requests](https://github.com/harpribot/awesome
 ## Talks
 #### Technical Talks
 - [Challenges in Building Large-Scale Information Retrieval Systems](http://videolectures.net/wsdm09_dean_cblirs/) - Jeff Dean (WSDM Conference, 2009)
-- [Knowledge-based Information Retrieval with Wikipedia](https://www.youtube.com/watch?v=NFCZuzA4cFc) - David Wilne (The University of Waikato, 2008)
+- [Knowledge-based Information Retrieval with Wikipedia](https://youtu.be/NFCZuzA4cFc) - David Wilne (The University of Waikato, 2008)
 - [Music Information Retrieval Using Locality Sensitive Hashing](https://www.youtube.com/watch?v=SghMq1xBJPI&list=PLdktw5AjQqP2gpQNgHRJaSgEkHiaVLfTi&index=24) - Steve Tjoa (Rackspace Developers) [This talk shows that IR is not just text and images]
+- [The Functional Web -- The Future of Apps and the Web](https://youtu.be/u6oqr3gMyxk) - Liron Shapira (Box Tech Talk)
+- [Information Experience - Solution to Information Overload on Web](https://youtu.be/EnvtsbCfiAI) - Doug Imbruce (Techcrunch Disrupt)[Doug Imbruce is the Founder of Qwiki, Inc, a technology startup in New York, NY, acquired by Yahoo! in 2013]
+- [Internet Privacy](https://youtu.be/tnsyhKHalGs) - Dr Alma Whitten (Google Brussels Tech Talk)
 
 #### Philosophical Talks
 - [The moral bias behind your search results](https://www.ted.com/talks/andreas_ekstrom_the_moral_bias_behind_your_search_results) - Andreas Ekström (Swedish Author & Journalist, TED Talk)
 - [Beware online "filter bubbles"](https://www.ted.com/talks/eli_pariser_beware_online_filter_bubbles?language=en) - Eli Pariser (Author of the Filter Bubble, TED Talk)
 - [Think your email's private? Think again](https://www.ted.com/talks/andy_yen_think_your_email_s_private_think_again) - Andy Yen (CERN, TED Talk) [This talk talks about privacy, which Search Engines intrude into, and how can people protect it]
+- [Do we have the right to be forgotten?](https://youtu.be/YO0lbdhF30g) - Michael Douglas [TEDx SouthBank]
 
 ## Conferences
 - Web Search and Data Mining Conference - [WSDM](http://www.wsdm-conference.org)
@@ -137,4 +141,4 @@ Please feel free to send me [pull requests](https://github.com/harpribot/awesome
 ## License
 [![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-To the extent possible under law, [Harshal Priyadarshi](http://www.harshalpriyadarshi.com) has waived all copyright and related or neighboring rights to this work.
+To the extent possible under law, [Harshal Priyadarshi](http://www.harshalpriyadarshi.com) and all the contributors have waived all copyright and related or neighboring rights to this work.
