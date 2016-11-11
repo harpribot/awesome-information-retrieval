@@ -42,6 +42,7 @@ Please feel free to send me [pull requests](https://github.com/harpribot/awesome
 
 ## Datasets
 #### Standard IR Collections
+- [DBPedia](http://wiki.dbpedia.org/Downloads2015-10) - A linked data web
 - [Cranfield Collections](http://ir.dcs.gla.ac.uk/resources/test_collections/cran/) - This is one of the first collections in IR domain, however the dataset is too small for any statistical significane analysis, but is nevertheless suitable for pilot runs.
 - [TREC Collections](http://trec.nist.gov/data.html) - TREC is the benchmark dataset used by most IR and Web search algorithms. It has several tracks, each of which consists of dataset to test for a specific task. The tracks are:
   - [Blog](http://trec.nist.gov/data/blog.html)
@@ -110,6 +111,8 @@ Please feel free to send me [pull requests](https://github.com/harpribot/awesome
 
 ## Talks
 #### Technical Talks
+- [The next web](https://www.ted.com/talks/tim_berners_lee_on_the_next_web) - Tim Berners-Lee (Ted Talk)[Tim Berners-Lee invented the World Wide Web. He leads the World Wide Web Consortium (W3C), overseeing the Web's standards and development]
+- [Is Pivot a turning point for web exploration?](https://www.ted.com/talks/gary_flake_is_pivot_a_turning_point_for_web_exploration?utm_source=tedcomshare&utm_medium=referral&utm_campaign=tedspread) - Gary Flake, Technical Fellow at Microsoft (TED Talks)
 - [Challenges in Building Large-Scale Information Retrieval Systems](http://videolectures.net/wsdm09_dean_cblirs/) - Jeff Dean (WSDM Conference, 2009)
 - [Knowledge-based Information Retrieval with Wikipedia](https://youtu.be/NFCZuzA4cFc) - David Wilne (The University of Waikato, 2008)
 - [Music Information Retrieval Using Locality Sensitive Hashing](https://www.youtube.com/watch?v=SghMq1xBJPI&list=PLdktw5AjQqP2gpQNgHRJaSgEkHiaVLfTi&index=24) - Steve Tjoa (Rackspace Developers) [This talk shows that IR is not just text and images]
@@ -117,11 +120,13 @@ Please feel free to send me [pull requests](https://github.com/harpribot/awesome
 - [Information Experience - Solution to Information Overload on Web](https://youtu.be/EnvtsbCfiAI) - Doug Imbruce (Techcrunch Disrupt)[Doug Imbruce is the Founder of Qwiki, Inc, a technology startup in New York, NY, acquired by Yahoo! in 2013]
 - [Internet Privacy](https://youtu.be/tnsyhKHalGs) - Dr Alma Whitten (Google Brussels Tech Talk)
 
+
 #### Philosophical Talks
 - [The moral bias behind your search results](https://www.ted.com/talks/andreas_ekstrom_the_moral_bias_behind_your_search_results) - Andreas Ekström (Swedish Author & Journalist, TED Talk)
 - [Beware online "filter bubbles"](https://www.ted.com/talks/eli_pariser_beware_online_filter_bubbles?language=en) - Eli Pariser (Author of the Filter Bubble, TED Talk)
 - [Think your email's private? Think again](https://www.ted.com/talks/andy_yen_think_your_email_s_private_think_again) - Andy Yen (CERN, TED Talk) [This talk talks about privacy, which Search Engines intrude into, and how can people protect it]
 - [Do we have the right to be forgotten?](https://youtu.be/YO0lbdhF30g) - Michael Douglas [TEDx SouthBank]
+- [The case for anonymity online](https://www.ted.com/talks/christopher_m00t_poole_the_case_for_anonymity_online?utm_source=tedcomshare&utm_medium=referral&utm_campaign=tedspread) - Christopher "moot" Poole" (Ted Talks) [Christopher "moot" Poole is founder of 4chan, an online imageboard whose anonymous denizens have spawned the web's most bewildering — and influential — subculture.]
 
 ## Conferences
 - Web Search and Data Mining Conference - [WSDM](http://www.wsdm-conference.org)
