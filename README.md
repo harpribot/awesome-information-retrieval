@@ -6,7 +6,7 @@
 ## Contributing
 Please feel free to send me [pull requests](https://github.com/harpribot/awesome-information-retrieval/pulls) or email (harshal.priyadarshi@utexas.edu) to add new links. I am very open to suggestions and corrections.
 
-## Table of Contents
+## Contents
  - [Books](#books)
  - [Courses](#courses)
  - [Software](#software)
