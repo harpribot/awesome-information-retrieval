@@ -4,7 +4,7 @@
 * Curated list of information retrieval and web search resources from all around the web.
 
 ## Contributing
-Please feel free to send me [pull requests](https://github.com/harpribot/awesome-information-retrieval/pulls) or email (harshal.priyadarshi@utexas.edu) to add new links. I am very open to suggestions and corrections.
+Please feel free to send me [pull requests](https://github.com/harpribot/awesome-information-retrieval/pulls) or email (harshal.priyadarshi@utexas.edu) to add new links. I am very open to suggestions and corrections. Please look at the [contributions guide](contributing.md).
 
 ## Contents
  - [Books](#books)
