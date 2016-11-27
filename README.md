@@ -148,11 +148,11 @@ Please feel free to send me [pull requests](https://github.com/harpribot/awesome
 - [IR Thoughts](https://irthoughts.wordpress.com) - Dr. Edel Garcia.
 
 #### Interesting Reads 
-- [Deep Neural Network Learns to Judge Books by Their Covers](https://www.technologyreview.com/s/602807/deep-neural-network-learns-to-judge-books-by-their-covers/?utm_campaign=socialflow&utm_source=facebook&utm_medium=post) - Information Extraction
-- [Can Deep Learning help solve Deep Learning](http://www.theverge.com/2016/11/7/13551210/ai-deep-learning-lip-reading-accuracy-oxford) - Information Retrieval from Lip Reading
-- [To reduce biases in machine learning start with openly discussing the problem](https://enterprisersproject.com/article/2016/9/reduce-biases-machine-learning-start-openly-discussing-problem?sc_cid=70160000000q8YTAAY) - Bias in Relevance
-- [Whoa, Google’s AI Is Really Good at Pictionary](https://www.wired.com/2016/11/woah-googles-ai-really-good-pictionary/) - Sketch-based search
-- [Neural Network Learns to Identify Criminals by Their Faces](https://www.technologyreview.com/s/602955/neural-network-learns-to-identify-criminals-by-their-faces/?utm_campaign=socialflow&utm_source=facebook&utm_medium=post) - Information Extraction
+- [Deep Neural Network Learns to Judge Books by Their Covers](https://www.technologyreview.com/s/602807/deep-neural-network-learns-to-judge-books-by-their-covers/?utm_campaign=socialflow&utm_source=facebook&utm_medium=post) - Information Extraction.
+- [Can Deep Learning help solve Deep Learning](http://www.theverge.com/2016/11/7/13551210/ai-deep-learning-lip-reading-accuracy-oxford) - Information Retrieval from Lip Reading.
+- [To reduce biases in machine learning start with openly discussing the problem](https://enterprisersproject.com/article/2016/9/reduce-biases-machine-learning-start-openly-discussing-problem?sc_cid=70160000000q8YTAAY) - Bias in Relevance.
+- [Whoa, Google’s AI Is Really Good at Pictionary](https://www.wired.com/2016/11/woah-googles-ai-really-good-pictionary/) - Sketch-based search.
+- [Neural Network Learns to Identify Criminals by Their Faces](https://www.technologyreview.com/s/602955/neural-network-learns-to-identify-criminals-by-their-faces/?utm_campaign=socialflow&utm_source=facebook&utm_medium=post) - Information Extraction.
 
 
 ## License
