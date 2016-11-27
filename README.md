@@ -14,7 +14,7 @@ Please feel free to send me [pull requests](https://github.com/harpribot/awesome
  - [Talks](#talks)
  - [Conferences](#conference)
  - [Blogs](#blogs)
-    -[Interesting Reads](#interesting-reads)
+    - [Interesting Reads](#interesting-reads)
 
 ## Books
 - [Introduction to Information Retrieval](http://www-nlp.stanford.edu/IR-book/) - C.D. Manning, P. Raghavan, H. Schütze. Cambridge UP, 2008.
