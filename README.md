@@ -115,6 +115,7 @@ Please feel free to send me [pull requests](https://github.com/harpribot/awesome
 
 ## Talks
 #### Technical Talks
+- [Extreme Classification: A New Paradigm for Ranking & Recommendation](https://youtu.be/1X71fTx1LKA) - Manik Verma (Microsoft Research)
 - [The next web](https://www.ted.com/talks/tim_berners_lee_on_the_next_web) - Tim Berners-Lee (Ted Talk)[Tim Berners-Lee invented the World Wide Web. He leads the World Wide Web Consortium (W3C), overseeing the Web's standards and development].
 - [Is Pivot a turning point for web exploration?](https://www.ted.com/talks/gary_flake_is_pivot_a_turning_point_for_web_exploration?utm_source=tedcomshare&utm_medium=referral&utm_campaign=tedspread) - Gary Flake, Technical Fellow at Microsoft (TED Talks).
 - [Challenges in Building Large-Scale Information Retrieval Systems](http://videolectures.net/wsdm09_dean_cblirs/) - Jeff Dean (WSDM Conference, 2009).
