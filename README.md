@@ -80,7 +80,7 @@ Please feel free to send me [pull requests](https://github.com/harpribot/awesome
   - [SPAM Track](http://trec.nist.gov/data/spam.html) - To benchmark spam filtering approaches.
   - [Tasks Track](http://trec.nist.gov/data/tasks.html) - To test if systems can induce possible tasks, users might be trying to accomplish for the query.
   - [Temporal Summarization Track](http://trec.nist.gov/data/tempsumm.html) - To develop systems that allow users to efficiently monitor the information associated with an event over time.
-  - [Terabyte Track](http://trec.nist.gov/data/terabyte.html) - To test scalability of IR systems to large scale collection
+  - [Terabyte Track](http://trec.nist.gov/data/terabyte.html) - To test scalability of IR systems to large scale collection.
   - [Web Track](http://trec.nist.gov/data/webmain.html) - To explore information seeking behaviors common in general web search.
 - [GOV2 Test Collection](http://ir.dcs.gla.ac.uk/test_collections/gov2-summary.htm) - This is one of the largest Web collection of documents obtained from crawl of government websites by Charlie Clarke and Ian Soboroff, using NIST hardware and network, then formatted by Nick Craswel.
 - [NTCIR Test Collection](http://research.nii.ac.jp/ntcir/data/data-en.html) - This is collection of wide variety of dataset ranging from Ad-hoc collection, Chinese IR collection, mobile clickthrough collections to medical collections. The focus of this collection is mostly on east asian languages and cross language information retrieval.
