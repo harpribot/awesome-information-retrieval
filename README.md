@@ -54,36 +54,34 @@ Please feel free to send me [pull requests](https://github.com/harpribot/awesome
 - [DBPedia](http://wiki.dbpedia.org/Downloads2015-10) - Linked data web.
 - [Cranfield Collections](http://ir.dcs.gla.ac.uk/resources/test_collections/cran/) - This is one of the first collections in IR domain, however the dataset is too small for any statistical significance analysis, but is nevertheless suitable for pilot runs.
 - [TREC Collections](http://trec.nist.gov/data.html) - TREC is the benchmark dataset used by most IR and Web search algorithms. It has several tracks, each of which consists of dataset to test for a specific task. The tracks are:
-  - [Blog](http://trec.nist.gov/data/blog.html)
-  - [Chemical IR](http://trec.nist.gov/data/chem-ir.html)
-  - [Clinical Decision Support](http://trec.nist.gov/data/clinical.html)
-  - [Confusion](http://trec.nist.gov/data/confusion.html)
-  - [Contextual Suggestion](http://trec.nist.gov/data/context.html)
-  - [Crowdsourcing](http://trec.nist.gov/data/crowd.html)
-  - [Enterprise](http://trec.nist.gov/data/enterprise.html)
-  - [Entity](http://trec.nist.gov/data/entity.html)
-  - [Filtering](http://trec.nist.gov/data/filtering.html)
-  - [Federated Web Search](http://trec.nist.gov/data/federated.html)
-  - [Genomics](http://trec.nist.gov/data/genomics.html)
-  - [High Accuracy Retrieval from Documents (HARD)](http://trec.nist.gov/data/hard.html)
-  - [Interactive Track](http://trec.nist.gov/data/interactive.html)
-  - [Knowledge base acceleration](http://trec.nist.gov/data/kba.html)
-  - [Legal Track](http://trec.nist.gov/data/legal.html)
-  - [Medical Track](http://trec.nist.gov/data/medical.html)
-  - [Microblog Track](http://trec.nist.gov/data/microblog.html)
-  - [Million Query Track](http://trec.nist.gov/data/million.query.html)
-  - [Novelty Track](http://trec.nist.gov/data/novelty.html)
-  - [Query Track](http://trec.nist.gov/data/query.html)
-  - [Question Answering Track](http://trec.nist.gov/data/qamain.html)
-  - [Relevance Feedback Track](http://trec.nist.gov/data/relevance.feedback.html)
-  - [Robust Track](http://trec.nist.gov/data/robust.html)
-  - [Session Track](http://trec.nist.gov/data/session.html)
-  - [SPAM Track](http://trec.nist.gov/data/spam.html)
-  - [Spoken Document Retrieval Track](http://www.itl.nist.gov/iad/mig//tests/sdr/)
-  - [Tasks Track](http://trec.nist.gov/data/tasks.html)
-  - [Temporal Summarization Track](http://trec.nist.gov/data/tempsumm.html)
-  - [Terabyte Track](http://trec.nist.gov/data/terabyte.html)
-  - [Web Track](http://trec.nist.gov/data/webmain.html)
+  - [Blog](http://trec.nist.gov/data/blog.html) - To explore information seeking behavior in the blogosphere.
+  - [Chemical IR](http://trec.nist.gov/data/chem-ir.html) - To address challenges in building large chemical testbeds for chemical IR.
+  - [Clinical Decision Support](http://trec.nist.gov/data/clinical.html) - To Investigate techniques to link medical cases to information relevant for patient care.
+  - [Confusion](http://trec.nist.gov/data/confusion.html) - To study [known item searching](http://trec.nist.gov/data/confusion/t5confusion.ps) problem.
+  - [Contextual Suggestion](http://trec.nist.gov/data/context.html) - To investigate search techniques for complex information needs (context and user interests based).
+  - [Crowdsourcing](http://trec.nist.gov/data/crowd.html) - To explore crowdsourcing methods for performing and evaluating search.
+  - [Enterprise](http://trec.nist.gov/data/enterprise.html) - To study search over the organization data.
+  - [Entity](http://trec.nist.gov/data/entity.html) - To perform entity-related search (find entities and their properties) on Web data.
+  - [Filtering](http://trec.nist.gov/data/filtering.html) - To binarily decide retrieval of new incoming documents given a stable information need.
+  - [Federated Web Search](http://trec.nist.gov/data/federated.html) - To study merge performance for results from various search services.
+  - [Genomics](http://trec.nist.gov/data/genomics.html) - To study retrieval efficiency of genomics data and corresponding documentation.
+  - [HARD](http://trec.nist.gov/data/hard.html) - To get High Accuracy Retrieval from Documents by leveraging searcher's context.
+  - [Interactive Track](http://trec.nist.gov/data/interactive.html) - To study user interaction with text retrieval systems.
+  - [Knowledge base acceleration](http://trec.nist.gov/data/kba.html) - To study algorithms that improve efficiency of human Knowledge Base.
+  - [Legal Track](http://trec.nist.gov/data/legal.html) - To study retrieval systems that have high recall for legal documents use case.
+  - [Medical Track](http://trec.nist.gov/data/medical.html) - To explore unstructured search performance over patients record data.
+  - [Microblog Track](http://trec.nist.gov/data/microblog.html) - To examine satisfaction of real-time information need for microblogging sites.
+  - [Million Query Track](http://trec.nist.gov/data/million.query.html) - To explore ad-hoc retrieval over large set of queries.
+  - [Novelty Track](http://trec.nist.gov/data/novelty.html) - To investigate systems' abilities to locate new (non-redundant) information.
+  - [Question Answering Track](http://trec.nist.gov/data/qamain.html) - To test systems that scale beyond document retrieval, to retrieve answers to factoid, list and definition type questions.
+  - [Relevance Feedback Track](http://trec.nist.gov/data/relevance.feedback.html) - To further deep evaluation of relevance feedback processes.
+  - [Robust Track](http://trec.nist.gov/data/robust.html) - To focus on individual topic's effectiveness.
+  - [Session Track](http://trec.nist.gov/data/session.html) - To develop methods for measuring multiple-query sessions where information needs drift.
+  - [SPAM Track](http://trec.nist.gov/data/spam.html) - To benchmark spam filtering approaches.
+  - [Tasks Track](http://trec.nist.gov/data/tasks.html) - To test if systems can induce possible tasks, users might be trying to accomplish for the query.
+  - [Temporal Summarization Track](http://trec.nist.gov/data/tempsumm.html) - To develop systems that allow users to efficiently monitor the information associated with an event over time.
+  - [Terabyte Track](http://trec.nist.gov/data/terabyte.html) - To test scalability of IR systems to large scale collection
+  - [Web Track](http://trec.nist.gov/data/webmain.html) - To explore information seeking behaviors common in general web search.
 - [GOV2 Test Collection](http://ir.dcs.gla.ac.uk/test_collections/gov2-summary.htm) - This is one of the largest Web collection of documents obtained from crawl of government websites by Charlie Clarke and Ian Soboroff, using NIST hardware and network, then formatted by Nick Craswel.
 - [NTCIR Test Collection](http://research.nii.ac.jp/ntcir/data/data-en.html) - This is collection of wide variety of dataset ranging from Ad-hoc collection, Chinese IR collection, mobile clickthrough collections to medical collections. The focus of this collection is mostly on east asian languages and cross language information retrieval.
   - [CLIR Test Collections](http://research.nii.ac.jp/ntcir/permission/ntcir-6/perm-en-CLIR.html) - This dataset can be used for cross lingual IR between CJKE (Chinese-Japanese-Korean-English) languages. It is suitable for the following tasks:
