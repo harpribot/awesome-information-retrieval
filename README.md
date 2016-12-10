@@ -4,6 +4,9 @@
 
 Curated list of information retrieval and web search resources from all around the web.
 
+## Introduction
+[Information Retrieval](https://en.wikipedia.org/wiki/Information_retrieval) is a field which involves finding relevant information(s) for user query, be it for as simple as database search, or as complicated as web search (Eg - Google, Bing, Yahoo). Current Research is developing algorithms to address [Information Need]() of user(s) by maximizing [User and Topic Relevance](https://en.wikipedia.org/wiki/Relevance_(information_retrieval)) while minimizing [Information Overload](https://en.wikipedia.org/wiki/Information_overload).
+
 ## Contributing
 Please feel free to send me [pull requests](https://github.com/harpribot/awesome-information-retrieval/pulls) or email (harshal.priyadarshi@utexas.edu) to add new links. I am very open to suggestions and corrections. Please look at the [contributions guide](contributing.md).
 
