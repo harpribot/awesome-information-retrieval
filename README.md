@@ -1,7 +1,8 @@
-## Awesome Information Retrieval [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome Information Retrieval [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 [![Join the chat at https://gitter.im/awesome-information-retrieval/Lobby](https://badges.gitter.im/awesome-information-retrieval/Lobby.svg)](https://gitter.im/awesome-information-retrieval/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-* Curated list of information retrieval and web search resources from all around the web.
+
+Curated list of information retrieval and web search resources from all around the web.
 
 ## Contributing
 Please feel free to send me [pull requests](https://github.com/harpribot/awesome-information-retrieval/pulls) or email (harshal.priyadarshi@utexas.edu) to add new links. I am very open to suggestions and corrections. Please look at the [contributions guide](contributing.md).
@@ -12,7 +13,7 @@ Please feel free to send me [pull requests](https://github.com/harpribot/awesome
  - [Software](#software)
  - [Datasets](#datasets)
  - [Talks](#talks)
- - [Conferences](#conference)
+ - [Conferences](#conferences)
  - [Blogs](#blogs)
     - [Interesting Reads](#interesting-reads)
 
@@ -40,9 +41,10 @@ Please feel free to send me [pull requests](https://github.com/harpribot/awesome
 - [Information Retrieval and Data Mining](https://www.mpi-inf.mpg.de/departments/databases-and-information-systems/teaching/winter-semester-201516/information-retrieval-and-data-mining/) - Dr. Jilles Vreeken , Prof. Dr. Gerhard Weikum (MPI).
 
 ## Software
-- [Apache Lucene](http://lucene.apache.org/core/)
-- [The Lemur Project](http://www.lemurproject.org)
-  - [Indri](http://www.lemurproject.org/indri.php)
+- [Apache Lucene](http://lucene.apache.org/core/) - Open Source Search Engine that can be used to test Information Retrieval Algorithm. Twitter uses this core for its real-time search.
+- [The Lemur Project](http://www.lemurproject.org) - The Lemur Project develops search engines, browser toolbars, text analysis tools, and data resources that support research and development of information retrieval and text mining software.
+  - [Indri Search Engine](http://www.lemurproject.org/indri.php) - Another Open Source Search Engine competitor of Apache Lucene.
+  - [Lemur Toolkit](http://www.lemurproject.org/lemur.php) - Open Source Toolkit for research in Language Modeling, filtering and categorization.
 
 ## Datasets
 #### Standard IR Collections
