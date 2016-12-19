@@ -132,7 +132,7 @@ Please feel free to send me [pull requests](https://github.com/harpribot/awesome
 - [Beware online "filter bubbles"](https://www.ted.com/talks/eli_pariser_beware_online_filter_bubbles?language=en) - Eli Pariser (Author of the Filter Bubble, TED Talk).
 - [Think your email's private? Think again](https://www.ted.com/talks/andy_yen_think_your_email_s_private_think_again) - Andy Yen (CERN, TED Talk) [This talk talks about privacy, which Search Engines intrude into, and how can people protect it].
 - [Do we have the right to be forgotten?](https://youtu.be/YO0lbdhF30g) - Michael Douglas [TEDx SouthBank].
-- [The case for anonymity online](https://www.ted.com/talks/christopher_m00t_poole_the_case_for_anonymity_online?utm_source=tedcomshare&utm_medium=referral&utm_campaign=tedspread) - Christopher "moot" Poole" (Ted Talks) [Christopher "moot" Poole is founder of 4chan, an online imageboard whose anonymous denizens have spawned the web's most bewildering — and influential — subculture].
+- [The case for anonymity online](https://www.ted.com/talks/christopher_m00t_poole_the_case_for_anonymity_online?utm_source=tedcomshare&utm_medium=referral&utm_campaign=tedspread) - Christopher "moot" Poole" (Ted Talks) [Christopher "moot" Poole is founder of 4chan, an online imageboard whose anonymous denizens have spawned the web's most bewildering and influential subculture].
 
 ## Conferences
 - Web Search and Data Mining Conference - [WSDM](http://www.wsdm-conference.org).
