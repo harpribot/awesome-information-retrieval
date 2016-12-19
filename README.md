@@ -160,6 +160,6 @@ Please feel free to send me [pull requests](https://github.com/harpribot/awesome
 
 
 ## License
-[![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
+[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, [Harshal Priyadarshi](http://www.harshalpriyadarshi.com) and all the contributors have waived all copyright and related or neighboring rights to this work.
