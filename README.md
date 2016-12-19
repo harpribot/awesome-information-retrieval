@@ -4,7 +4,7 @@
 
 Curated list of information retrieval and web search resources from all around the web.
 ## Introduction
-[Information Retrieval](https://en.wikipedia.org/wiki/Information_retrieval) involves finding relevant information for user queries, ranging from simple domain of database search to complicated aspects of web search (Eg - Google, Bing, Yahoo). Currently, researchers are developing algorithms to address [Information Need]() of user(s), by maximizing [User and Topic Relevance](https://en.wikipedia.org/wiki/Relevance_(information_retrieval)) of retrieved results, while minimizing [Information Overload](https://en.wikipedia.org/wiki/Information_overload) and retrieval time.
+[Information Retrieval](https://en.wikipedia.org/wiki/Information_retrieval) involves finding relevant information for user queries, ranging from simple domain of database search to complicated aspects of web search (Eg - Google, Bing, Yahoo). Currently, researchers are developing algorithms to address [Information Need](https://en.wikipedia.org/wiki/Information_needs) of user(s), by maximizing [User and Topic Relevance](https://en.wikipedia.org/wiki/Relevance_(information_retrieval)) of retrieved results, while minimizing [Information Overload](https://en.wikipedia.org/wiki/Information_overload) and retrieval time.
 ## Contributing
 Please feel free to send me [pull requests](https://github.com/harpribot/awesome-information-retrieval/pulls) or [email] (mailto:harshal.priyadarshi@utexas.edu) me to add new links. I am very open to suggestions and corrections. Please look at the [contributions guide](contributing.md).
 
@@ -19,13 +19,13 @@ Please feel free to send me [pull requests](https://github.com/harpribot/awesome
     - [Interesting Reads](#interesting-reads)
 
 ## Books
-- [Introduction to Information Retrieval](http://www-nlp.stanford.edu/IR-book/) - C.D. Manning, P. Raghavan, H. Schütze. Cambridge UP, 2008.
-- [Search Engines: Information Retrieval in Practice](http://ciir.cs.umass.edu/downloads/SEIRiP.pdf) - Bruce Croft, Don Metzler, and Trevor Strohman. 2009.
+- [Introduction to Information Retrieval](http://www-nlp.stanford.edu/IR-book/) - C.D. Manning, P. Raghavan, H. Schütze. Cambridge UP, 2008. (First book for getting started with Information Retrieval).
+- [Search Engines: Information Retrieval in Practice](http://ciir.cs.umass.edu/downloads/SEIRiP.pdf) - Bruce Croft, Don Metzler, and Trevor Strohman. 2009. (Great book for readers interested in knowing the wherabouts of Search Engines specifically).
 - [Modern Information Retrieval](http://people.ischool.berkeley.edu/~hearst/irbook/) - R. Baeza-Yates, B. Ribeiro-Neto. Addison-Wesley, 1999.
 - [Information Retrieval in Practice](http://www.search-engines-book.com/) - B. Croft, D. Metzler, T. Strohman. Pearson Education, 2009.
 - [Mining the Web: Analysis of Hypertext and Semi Structured Data](http://www.cse.iitb.ac.in/%7Esoumen/mining-the-web/) - S. Chakrabarti. Morgan Kaufmann, 2002.
-- [Language Modeling for Information Retrieval](http://www.springer.com/prod/b/1-4020-1216-0?referer=www.wkap.nl) - W.B. Croft, J. Lafferty. Springer, 2003.
-- [Information Retrieval: A Survey](http://www.csee.umbc.edu/cadip/readings/IR.report.120600.book.pdf) - Ed Greengrass, 2000.
+- [Language Modeling for Information Retrieval](http://www.springer.com/prod/b/1-4020-1216-0?referer=www.wkap.nl) - W.B. Croft, J. Lafferty. Springer, 2003. (Handles Language Modeling aspect of Information Retrieval. It also extensively details probabilistic perspective in this domain, which is interesting).
+- [Information Retrieval: A Survey](http://www.csee.umbc.edu/cadip/readings/IR.report.120600.book.pdf) - Ed Greengrass, 2000. (Comprehensive survey of Conventional Information Retrieval, before Deep Learning era)
 - [Introduction to  Modern Information Retrieval]( https://www.amazon.com/Introduction-Modern-Information-Retrieval-Third/dp/185604694X) - G.G. Chowdhury. Neal-Schuman, 2003. (Intended for students of library and information studies).
 - [Text Information Retrieval Systems](https://www.amazon.com/Information-Retrieval-Systems-Library-Hardcover/dp/0123694124) - C.T. Meadow, B.R. Boyce, D.H. Kraft, C.L.  Barry. Academic Press, 2007 (library/information science  perspective).
 
