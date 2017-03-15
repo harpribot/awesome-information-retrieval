@@ -20,6 +20,7 @@ Please feel free to send me [pull requests](https://github.com/harpribot/awesome
 
 ## Books
 - [Introduction to Information Retrieval](http://www-nlp.stanford.edu/IR-book/) - C.D. Manning, P. Raghavan, H. Schütze. Cambridge UP, 2008. (First book for getting started with Information Retrieval).
+- [Information Retrieval](https://mitpress.mit.edu/books/information-retrieval) - Stefan Büttcher, Charles L. A. Clarke and Gordon V. Cormack 2010 (Very solid modern book, could be a good alternative for the classic Manning text).
 - [Search Engines: Information Retrieval in Practice](http://ciir.cs.umass.edu/downloads/SEIRiP.pdf) - Bruce Croft, Don Metzler, and Trevor Strohman. 2009. (Great book for readers interested in knowing how Search Engines work. The book is very detailed).
 - [Modern Information Retrieval](http://people.ischool.berkeley.edu/~hearst/irbook/) - R. Baeza-Yates, B. Ribeiro-Neto. Addison-Wesley, 1999.
 - [Information Retrieval in Practice](http://www.search-engines-book.com/) - B. Croft, D. Metzler, T. Strohman. Pearson Education, 2009.
