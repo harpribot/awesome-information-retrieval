@@ -48,6 +48,7 @@ Please feel free to send me [pull requests](https://github.com/harpribot/awesome
 - [The Lemur Project](http://www.lemurproject.org) - The Lemur Project develops search engines, browser toolbars, text analysis tools, and data resources that support research and development of information retrieval and text mining software.
   - [Indri Search Engine](http://www.lemurproject.org/indri.php) - Another Open Source Search Engine competitor of Apache Lucene.
   - [Lemur Toolkit](http://www.lemurproject.org/lemur.php) - Open Source Toolkit for research in Language Modeling, filtering and categorization.
+- [AquilaDB](https://aquiladb.xyz/) - Open Source solution for Neural Information Retrieval. Use it to perform meaningful Information Retrieval with Machine Learning.
 
 ## Datasets
 #### Standard IR Collections
