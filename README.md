@@ -40,7 +40,6 @@ Please feel free to send me [pull requests](https://github.com/harpribot/awesome
 - [600.466: Information Retrieval and Web Agents](http://www.cs.jhu.edu/%7Eyarowsky/cs466.html) - David Yarowsky (John Hopkins University).
 - [CS 435: Information Retrieval, Discovery, and Delivery](http://www.cs.princeton.edu/courses/archive/spring06/cos435/) - Andrea LaPaugh (Princeton University).
 - [Information Retrieval and Data Mining](https://www.mpi-inf.mpg.de/departments/databases-and-information-systems/teaching/winter-semester-201516/information-retrieval-and-data-mining/) - Dr. Jilles Vreeken , Prof. Dr. Gerhard Weikum (MPI).
-- [COMP6714 Information Retrieval and Web Search](http://www.cse.unsw.edu.au/~cs6714/17s2/index.html) - Prof. Wei Wang (University of New South Wales).
 - [Coursera - Text Retrieval and Search Engines](https://www.coursera.org/learn/text-retrieval) -  Prof. ChengXiang Zhai (University of Illinois at Urbana-Champaign).
 
 ## Software
