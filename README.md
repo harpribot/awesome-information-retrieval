@@ -44,6 +44,7 @@ Please feel free to send me [pull requests](https://github.com/harpribot/awesome
 
 ## Software
 - [Apache Lucene](http://lucene.apache.org/core/) - Open Source Search Engine that can be used to test Information Retrieval Algorithm. Twitter uses this core for its real-time search.
+- [Tantivy](https://github.com/quickwit-oss/tantivy) - Open-source full-text search engine library inspired by Apache Lucene and written in Rust
 - [The Lemur Project](http://www.lemurproject.org) - The Lemur Project develops search engines, browser toolbars, text analysis tools, and data resources that support research and development of information retrieval and text mining software.
   - [Indri Search Engine](http://www.lemurproject.org/indri.php) - Another Open Source Search Engine competitor of Apache Lucene.
   - [Lemur Toolkit](http://www.lemurproject.org/lemur.php) - Open Source Toolkit for research in Language Modeling, filtering and categorization.
