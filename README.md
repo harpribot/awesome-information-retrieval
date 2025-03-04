@@ -41,12 +41,15 @@ Please feel free to send me [pull requests](https://github.com/harpribot/awesome
 - [CS 435: Information Retrieval, Discovery, and Delivery](http://www.cs.princeton.edu/courses/archive/spring06/cos435/) - Andrea LaPaugh (Princeton University).
 - [Information Retrieval and Data Mining](https://www.mpi-inf.mpg.de/departments/databases-and-information-systems/teaching/winter-semester-201516/information-retrieval-and-data-mining/) - Dr. Jilles Vreeken , Prof. Dr. Gerhard Weikum (MPI).
 - [Coursera - Text Retrieval and Search Engines](https://www.coursera.org/learn/text-retrieval) -  Prof. ChengXiang Zhai (University of Illinois at Urbana-Champaign).
+- [Think Like a Relevance Engineer]() - Jumpstart course taught by OpenSource Connections to hundreds of people getting into Information Retrieval.
 
 ## Software
 - [Apache Lucene](http://lucene.apache.org/core/) - Open Source Search Engine that can be used to test Information Retrieval Algorithm. Twitter uses this core for its real-time search.
 - [The Lemur Project](http://www.lemurproject.org) - The Lemur Project develops search engines, browser toolbars, text analysis tools, and data resources that support research and development of information retrieval and text mining software.
   - [Indri Search Engine](http://www.lemurproject.org/indri.php) - Another Open Source Search Engine competitor of Apache Lucene.
   - [Lemur Toolkit](http://www.lemurproject.org/lemur.php) - Open Source Toolkit for research in Language Modeling, filtering and categorization.
+- [Quepid](http://www.quepid.com) - Open Source Search Evaluation Tool for testing Information Retrieval Algorithms. Collect Human Judgements, monitor Search Quality, experiment with Algorithms.
+
 
 ## Datasets
 #### Standard IR Collections
@@ -145,10 +148,13 @@ Please feel free to send me [pull requests](https://github.com/harpribot/awesome
 - Forum for Information Retrieval Evaluation - [FIRE](http://fire.irsi.res.in/fire/2016/home).
 - Conference and Labs of the Evaluation Forum - [CLEF](http://www.clef-initiative.eu/).
 - NII Testsbeds and Community for Information access Research - [NTCIR](http://research.nii.ac.jp/ntcir/index-en.html).
+- Haystack Search Relevance Conference - [Haystack](https://haystackconf.com/)
+- Relevance Slack Community - [Relevance Slack](https://opensourceconnections.com/slack) - Invite link
 
 ## Blogs
 - [Information Retrieval and the Web](http://research.google.com/pubs/InformationRetrievalandtheWeb.html) - Google Research.
 - [IR Thoughts](https://irthoughts.wordpress.com) - Dr. Edel Garcia.
+- [OpenSource Connections Blog](https://opensourceconnections.com/blog/) - OpenSource Connections Tea.
 
 #### Interesting Reads 
 - [Deep Neural Network Learns to Judge Books by Their Covers](https://www.technologyreview.com/s/602807/deep-neural-network-learns-to-judge-books-by-their-covers/?utm_campaign=socialflow&utm_source=facebook&utm_medium=post) - Information Extraction.
