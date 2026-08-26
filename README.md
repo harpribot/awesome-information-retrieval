@@ -47,6 +47,7 @@ Please feel free to send me [pull requests](https://github.com/harpribot/awesome
 - [The Lemur Project](http://www.lemurproject.org) - The Lemur Project develops search engines, browser toolbars, text analysis tools, and data resources that support research and development of information retrieval and text mining software.
   - [Indri Search Engine](http://www.lemurproject.org/indri.php) - Another Open Source Search Engine competitor of Apache Lucene.
   - [Lemur Toolkit](http://www.lemurproject.org/lemur.php) - Open Source Toolkit for research in Language Modeling, filtering and categorization.
+- [me_fasttext](https://github.com/initial-d/me_fasttext) - Memory-efficient FastText-derived lexical embedding layer for OOV-heavy retrieval and large-vocabulary search.
 
 ## Datasets
 #### Standard IR Collections
