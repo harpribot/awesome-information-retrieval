@@ -1,4 +1,4 @@
-# Awesome Information Retrieval [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome Information Retrieval [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
 
 [![Join the chat at https://gitter.im/awesome-information-retrieval/Lobby](https://badges.gitter.im/awesome-information-retrieval/Lobby.svg)](https://gitter.im/awesome-information-retrieval/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
@@ -6,7 +6,7 @@ Curated list of information retrieval and web search resources from all around t
 ## Introduction
 [Information Retrieval](https://en.wikipedia.org/wiki/Information_retrieval) involves finding relevant information for user queries, ranging from simple domain of database search to complicated aspects of web search (Eg - Google, Bing, Yahoo). Currently, researchers are developing algorithms to address [Information Need](https://en.wikipedia.org/wiki/Information_needs) of user(s), by maximizing [User and Topic Relevance](https://en.wikipedia.org/wiki/Relevance_(information_retrieval)) of retrieved results, while minimizing [Information Overload](https://en.wikipedia.org/wiki/Information_overload) and retrieval time.
 ## Contributing
-Please feel free to send me [pull requests](https://github.com/harpribot/awesome-information-retrieval/pulls) or [email] (mailto:harshal.priyadarshi@utexas.edu) me to add new links. I am very open to suggestions and corrections. Please look at the [contributions guide](contributing.md).
+Please feel free to send me [pull requests](https://github.com/harpribot/awesome-information-retrieval/pulls) or [email](mailto:harshal.priyadarshi@utexas.edu) me to add new links. I am very open to suggestions and corrections. Please look at the [contributions guide](contributing.md).
 
 ## Contents
  - [Books](#books)
@@ -25,9 +25,9 @@ Please feel free to send me [pull requests](https://github.com/harpribot/awesome
 - [Information Retrieval in Practice](http://www.search-engines-book.com/) - B. Croft, D. Metzler, T. Strohman. Pearson Education, 2009.
 - [Mining the Web: Analysis of Hypertext and Semi Structured Data](http://www.cse.iitb.ac.in/%7Esoumen/mining-the-web/) - S. Chakrabarti. Morgan Kaufmann, 2002.
 - [Language Modeling for Information Retrieval](http://www.springer.com/prod/b/1-4020-1216-0?referer=www.wkap.nl) - W.B. Croft, J. Lafferty. Springer, 2003. (Handles Language Modeling aspect of Information Retrieval. It also extensively details probabilistic perspective in this domain, which is interesting).
-- [Information Retrieval: A Survey](http://www.csee.umbc.edu/cadip/readings/IR.report.120600.book.pdf) - Ed Greengrass, 2000. (Comprehensive survey of Conventional Information Retrieval, before Deep Learning era).
-- [Introduction to  Modern Information Retrieval]( https://www.amazon.com/Introduction-Modern-Information-Retrieval-Third/dp/185604694X) - G.G. Chowdhury. Neal-Schuman, 2003. (Intended for students of library and information studies).
-- [Text Information Retrieval Systems](https://www.amazon.com/Information-Retrieval-Systems-Library-Hardcover/dp/0123694124) - C.T. Meadow, B.R. Boyce, D.H. Kraft, C.L.  Barry. Academic Press, 2007 (library/information science  perspective).
+- [Information Retrieval: A Survey](https://archive.org/details/Ed_Greengrass___Information_Retrieval_A_survey) - Ed Greengrass, 2000. (Comprehensive survey of Conventional Information Retrieval, before Deep Learning era).
+- [Introduction to  Modern Information Retrieval](https://www.amazon.com/Introduction-Modern-Information-Retrieval-Third/dp/185604694X) - G.G. Chowdhury. Neal-Schuman, 2003. (Intended for students of library and information studies).
+- [Text Information Retrieval Systems](https://www.amazon.com/Information-Retrieval-Systems-Library-Hardcover/dp/0123694124) - C.T. Meadow, B.R. Boyce, D.H. Kraft, C.L. Barry. Academic Press, 2007 (library/information science perspective).
 
 
 ## Courses
@@ -35,12 +35,12 @@ Please feel free to send me [pull requests](https://github.com/harpribot/awesome
 - [CS 276 / LING 286: Information Retrieval and Web Search](http://web.stanford.edu/class/cs276/) - Chris Manning and Pandu Nayak (Stanford University).
 - [CS 371R: Information Retrieval and Web Search](https://www.cs.utexas.edu/~mooney/ir-course/) - Raymond J. Mooney (University of Texas at Austin).
 - [CS 172: Introduction to Information Retrieval](http://www.cs.ucr.edu/~vagelis/classes/CS172/) - Vagelis Hristidis (University of California - Riverside).
-- [SIMS 240: Principles of Information Retrieval](http://www2.sims.berkeley.edu/academics/courses/is240/s06/) - Ray R. Larson (UC berkeley).
+- [SIMS 240: Principles of Information Retrieval](http://www2.sims.berkeley.edu/academics/courses/is240/s06/) - Ray R. Larson (UC Berkeley).
 - [11-442 / 11-642: Search Engines](http://boston.lti.cs.cmu.edu/classes/11-642/) - Jamie Callan (CMU).
-- [600.466: Information Retrieval and Web Agents](http://www.cs.jhu.edu/%7Eyarowsky/cs466.html) - David Yarowsky (John Hopkins University).
+- [600.466: Information Retrieval and Web Agents](http://www.cs.jhu.edu/%7Eyarowsky/cs466.html) - David Yarowsky (Johns Hopkins University).
 - [CS 435: Information Retrieval, Discovery, and Delivery](http://www.cs.princeton.edu/courses/archive/spring06/cos435/) - Andrea LaPaugh (Princeton University).
 - [Information Retrieval and Data Mining](https://www.mpi-inf.mpg.de/departments/databases-and-information-systems/teaching/winter-semester-201516/information-retrieval-and-data-mining/) - Dr. Jilles Vreeken , Prof. Dr. Gerhard Weikum (MPI).
-- [Coursera - Text Retrieval and Search Engines](https://www.coursera.org/learn/text-retrieval) -  Prof. ChengXiang Zhai (University of Illinois at Urbana-Champaign).
+- [Coursera - Text Retrieval and Search Engines](https://www.coursera.org/learn/text-retrieval) - Prof. ChengXiang Zhai (University of Illinois at Urbana-Champaign).
 
 ## Software
 - [Apache Lucene](http://lucene.apache.org/core/) - Open Source Search Engine that can be used to test Information Retrieval Algorithm. Twitter uses this core for its real-time search.
@@ -97,7 +97,7 @@ Please feel free to send me [pull requests](https://github.com/harpribot/awesome
       - Chinese to Chinese.
       - Japanese to Japanese.
       - English to English.
-  - [Advanced Cross Linugal Information Retrieval and Question Answering (ACLIA)](http://research.nii.ac.jp/ntcir/permission/ntcir-8/perm-en-ACLIA.html) - The dataset is used for the task of cross-lingual question answering but the complexity of the task is higher than CLQA dataset.
+  - [Advanced Cross Lingual Information Retrieval and Question Answering (ACLIA)](http://research.nii.ac.jp/ntcir/permission/ntcir-8/perm-en-ACLIA.html) - The dataset is used for the task of cross-lingual question answering but the complexity of the task is higher than CLQA dataset.
 - [Conference and Labs of the Evaluation Forum (CLEF) dataset](http://www.clef-initiative.eu/dataset/test-collection) - It contains a multi-lingual document collection. The test suite includes:
   - AdHoc - News Test suite.
   - Domain Specific Test Suite - On collections of scientific articles.
@@ -106,14 +106,14 @@ Please feel free to send me [pull requests](https://github.com/harpribot/awesome
   - RCV1 (Reuter's Corpus Volume 1) - Consists of only English language News stories.
   - RCV2 (Reuter's Corpus Volume 2) - Consists of stories in 13 languages (Dutch, French, German, Chinese, Japanese, Russian, Portuguese, Spanish, Latin American Spanish, Italian, Danish, Norwegian, and Swedish). Note that the stories are not parallel.
   - TRC (Thomson Reuters Text Research Collection) - This is a fairly recent corpus consisting of 1,800,370 news stories covering the period from 2008-01-01 00:00:03 to 2009-02-28 23:54:14.
-- [20 Newsgroup dataset](https://kdd.ics.uci.edu/databases/20newsgroups/20newsgroups.html) - This data set consists of 20000 newsgroup messages.posts taken from 20 newsgroup topics.
+- [20 Newsgroup dataset](https://kdd.ics.uci.edu/databases/20newsgroups/20newsgroups.html) - This data set consists of 20000 newsgroup messages/posts taken from 20 newsgroup topics.
 - [English Gigaword Fifth Edition](https://catalog.ldc.upenn.edu/LDC2011T07) -  This data set is a comprehensive archive of English newswire text data including headlines, datelines and articles.
 - [Document Understanding Conference (DUC) datasets](http://www-nlpir.nist.gov/projects/duc/data.html) - Past newswire/paper datasets (DUC 2001 - DUC 2007) are available upon request.
 
 #### External Curation Links
 - [CMU List](http://boston.lti.cs.cmu.edu/callan/Data/#DIR)
 - [Stanford List](http://nlp.stanford.edu/IR-book/html/htmledition/standard-test-collections-1.html)
-- [University of Tennesse Knoxville](http://web.eecs.utk.edu/research/lsi/corpa.html)
+- [University of Tennessee Knoxville](http://web.eecs.utk.edu/research/lsi/corpa.html)
 
 ## Talks
 #### Technical Talks
@@ -133,7 +133,7 @@ Please feel free to send me [pull requests](https://github.com/harpribot/awesome
 - [Beware online "filter bubbles"](https://www.ted.com/talks/eli_pariser_beware_online_filter_bubbles?language=en) - Eli Pariser (Author of the Filter Bubble, TED Talk).
 - [Think your email's private? Think again](https://www.ted.com/talks/andy_yen_think_your_email_s_private_think_again) - Andy Yen (CERN, TED Talk) [This talk talks about privacy, which Search Engines intrude into, and how can people protect it].
 - [Do we have the right to be forgotten?](https://youtu.be/YO0lbdhF30g) - Michael Douglas [TEDx SouthBank].
-- [The case for anonymity online](https://www.ted.com/talks/christopher_m00t_poole_the_case_for_anonymity_online?utm_source=tedcomshare&utm_medium=referral&utm_campaign=tedspread) - Christopher "moot" Poole" (Ted Talks) [Christopher "moot" Poole is founder of 4chan, an online imageboard whose anonymous denizens have spawned the web's most bewildering and influential subculture].
+- [The case for anonymity online](https://www.ted.com/talks/christopher_m00t_poole_the_case_for_anonymity_online?utm_source=tedcomshare&utm_medium=referral&utm_campaign=tedspread) - Christopher "moot" Poole (TED Talks) [Christopher "moot" Poole is founder of 4chan, an online imageboard whose anonymous denizens have spawned the web's most bewildering and influential subculture].
 
 ## Conferences
 - Web Search and Data Mining Conference - [WSDM](http://www.wsdm-conference.org).
@@ -142,15 +142,15 @@ Please feel free to send me [pull requests](https://github.com/harpribot/awesome
 - European Conference on Information Retrieval - [ECIR](http://irsg.bcs.org/ecir.php).
 - World Wide Web Conference - [WWW](http://www.iw3c2.org).
 - Conference on Information and Knowledge Management - [CIKM](http://www.cikmconference.org).
-- Forum for Information Retrieval Evaluation - [FIRE](http://fire.irsi.res.in/fire/2016/home).
+- Forum for Information Retrieval Evaluation - [FIRE](https://fire.irsi.org.in/).
 - Conference and Labs of the Evaluation Forum - [CLEF](http://www.clef-initiative.eu/).
-- NII Testsbeds and Community for Information access Research - [NTCIR](http://research.nii.ac.jp/ntcir/index-en.html).
+- NII Testbeds and Community for Information access Research - [NTCIR](http://research.nii.ac.jp/ntcir/index-en.html).
 
 ## Blogs
 - [Information Retrieval and the Web](http://research.google.com/pubs/InformationRetrievalandtheWeb.html) - Google Research.
 - [IR Thoughts](https://irthoughts.wordpress.com) - Dr. Edel Garcia.
 
-#### Interesting Reads 
+#### Interesting Reads
 - [Deep Neural Network Learns to Judge Books by Their Covers](https://www.technologyreview.com/s/602807/deep-neural-network-learns-to-judge-books-by-their-covers/?utm_campaign=socialflow&utm_source=facebook&utm_medium=post) - Information Extraction.
 - [Can Deep Learning help solve Deep Learning](http://www.theverge.com/2016/11/7/13551210/ai-deep-learning-lip-reading-accuracy-oxford) - Information Retrieval from Lip Reading.
 - [To reduce biases in machine learning start with openly discussing the problem](https://enterprisersproject.com/article/2016/9/reduce-biases-machine-learning-start-openly-discussing-problem?sc_cid=70160000000q8YTAAY) - Bias in Relevance.
@@ -161,4 +161,4 @@ Please feel free to send me [pull requests](https://github.com/harpribot/awesome
 ## License
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-To the extent possible under law, [Harshal Priyadarshi](http://www.harshalpriyadarshi.com) and all the contributors have waived all copyright and related or neighboring rights to this work.
+To the extent possible under law, [Harshal Priyadarshi](https://github.com/harpribot) and all the contributors have waived all copyright and related or neighboring rights to this work.
