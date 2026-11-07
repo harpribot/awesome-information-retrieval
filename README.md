@@ -48,6 +48,8 @@ Please feel free to send me [pull requests](https://github.com/harpribot/awesome
   - [Indri Search Engine](http://www.lemurproject.org/indri.php) - Another Open Source Search Engine competitor of Apache Lucene.
   - [Lemur Toolkit](http://www.lemurproject.org/lemur.php) - Open Source Toolkit for research in Language Modeling, filtering and categorization.
 
+- [FreeRet](https://github.com/MCG-NJU/FreeRet) - Research implementation of training-free multimodal embedding retrieval and multiple-choice reranking with off-the-shelf MLLMs (ICML 2026; [paper](https://proceedings.mlr.press/v306/zhu26ba.html)).
+
 ## Datasets
 #### Standard IR Collections
 - [DBPedia](http://wiki.dbpedia.org/Downloads2015-10) - Linked data web.
